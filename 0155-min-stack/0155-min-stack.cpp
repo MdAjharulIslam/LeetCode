@@ -7,10 +7,13 @@ public:
         if(s1.empty()){
             s2.push(x);
         }
+        
         else if(x <= s2.top()){
             s2.push(x);
         }
-        s1.push(x);
+            
+         s1.push(x);
+        
     }
     
     void pop() {
