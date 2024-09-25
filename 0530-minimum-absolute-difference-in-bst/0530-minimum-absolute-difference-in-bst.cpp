@@ -15,15 +15,14 @@ public:
     TreeNode*prev=nullptr;
     
     void inorder(TreeNode*root,int &ans){
-        
-        if(!root){
+        if(root==nullptr){
             return;
         }
         
         inorder(root->left,ans);
         
         if(prev!=nullptr){
-            int diff=abs(prev->val-root->val);
+            int diff=root->val-prev->val;
             ans=min(ans,diff);
         }
         
