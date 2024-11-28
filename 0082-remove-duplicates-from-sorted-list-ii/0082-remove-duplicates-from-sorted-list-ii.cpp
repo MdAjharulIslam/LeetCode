@@ -19,7 +19,7 @@ public:
         ListNode* temp = new ListNode(0, head);
         ListNode* prev = temp;
 
-        while (head) {
+        while (head!=nullptr) {
             
             if (head->next && head->val == head->next->val) {
                 
