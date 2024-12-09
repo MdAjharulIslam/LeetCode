@@ -29,7 +29,7 @@ public:
     int kthSmallest(TreeNode* root, int k) {
         vector<int> v;
         inorderTraversal(root , v);
-        
+       
         return v[k-1];
     }
 };
