@@ -6,7 +6,7 @@ public:
         return helper(preorder, inorder, index, 0, n - 1);
     }
 
-private:
+
     TreeNode* helper(vector<int>& preorder, vector<int>& inorder, int &index, int left, int right) {
         if (left > right) {
             return NULL;
