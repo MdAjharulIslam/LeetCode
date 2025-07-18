@@ -8,7 +8,7 @@ public:
             return 0;
         }
 
-        for (int i = 0; i <= hLen - nLen; i++) {
+        for (int i = 0; i <= hLen ; i++) {
             if (haystack.substr(i, nLen) == needle) {
                 return i;
             }
