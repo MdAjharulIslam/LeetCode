@@ -7,15 +7,19 @@ public:
         int max_area=0;
         
         while(left<right){
-            int width=right-left;
-            int current_height = min(height[left],height[right]);
+
+             int width=right-left;
+             int current_height = min(height[left],height[right]);
             int area=width*current_height;
-            max_area=max(max_area,area);
-            if(height[left]<height[right]){
+             if(height[left]<height[right]){
                 left++;
             }else{
                 right--;
             }
+           
+            
+            max_area=max(max_area,area);
+           
         }
         return max_area;
     }
