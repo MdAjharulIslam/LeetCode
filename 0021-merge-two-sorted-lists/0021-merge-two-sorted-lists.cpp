@@ -18,19 +18,19 @@ public:
      if(ptr1 == NULL){
         return ptr2;
      }
-     if(ptr2 == NULL){
+     if(ptr2== NULL){
         return ptr1;
      }
 
      if(ptr1->val < ptr2->val){
-       ptr1->next = mergeTwoLists(ptr1->next, ptr2);
-       return ptr1;
+        ptr1->next = mergeTwoLists(ptr1->next, ptr2);
+        return ptr1;
+     }
 
-     }
-     else{
-        ptr2->next = mergeTwoLists(ptr1, ptr2->next);
-        return ptr2;
-     }
- 
-    } 
+        else{
+            ptr2->next = mergeTwoLists(ptr1, ptr2->next);
+            return ptr2;
+        }
+
+    }
 };
