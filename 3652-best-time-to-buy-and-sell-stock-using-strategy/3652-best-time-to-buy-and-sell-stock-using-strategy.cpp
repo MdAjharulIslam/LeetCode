@@ -14,7 +14,7 @@ public:
             }else{
                 sum2 += 1LL * prices[i]*strategy[i];
             }
-
+        }
             long long profit = max(sum1, sum2);
 
             for(int i = 0; i < n-k;i++){
@@ -28,6 +28,6 @@ public:
             }
             return profit;
 
-        }
-    
+        
+    }
 };
