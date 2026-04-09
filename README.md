@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2751-robot-collisions](https://github.com/MdAjharulIslam/LeetCode/tree/main/2751-robot-collisions/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/MdAjharulIslam/LeetCode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/MdAjharulIslam/LeetCode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/MdAjharulIslam/LeetCode/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/MdAjharulIslam/LeetCode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
@@ -103,4 +104,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/MdAjharulIslam/LeetCode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/MdAjharulIslam/LeetCode/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 <!---LeetCode Topics End-->
