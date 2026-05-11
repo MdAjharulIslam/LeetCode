@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> separateDigits(vector<int>& nums) {
-        
+
         vector<int> result;
 
         for (int num : nums) {
