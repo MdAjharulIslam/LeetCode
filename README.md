@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2751-robot-collisions](https://github.com/MdAjharulIslam/LeetCode/tree/main/2751-robot-collisions/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/MdAjharulIslam/LeetCode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/MdAjharulIslam/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/MdAjharulIslam/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/MdAjharulIslam/LeetCode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/MdAjharulIslam/LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/MdAjharulIslam/LeetCode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1861-rotating-the-box](https://github.com/MdAjharulIslam/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/MdAjharulIslam/LeetCode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/MdAjharulIslam/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/MdAjharulIslam/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/MdAjharulIslam/LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/MdAjharulIslam/LeetCode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/MdAjharulIslam/LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
@@ -222,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MdAjharulIslam/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/MdAjharulIslam/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/MdAjharulIslam/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/MdAjharulIslam/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/MdAjharulIslam/LeetCode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/MdAjharulIslam/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/MdAjharulIslam/LeetCode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
@@ -276,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/MdAjharulIslam/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/MdAjharulIslam/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/MdAjharulIslam/LeetCode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/MdAjharulIslam/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -297,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1345-jump-game-iv](https://github.com/MdAjharulIslam/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/MdAjharulIslam/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/MdAjharulIslam/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/MdAjharulIslam/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/MdAjharulIslam/LeetCode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -327,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/MdAjharulIslam/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/MdAjharulIslam/LeetCode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
