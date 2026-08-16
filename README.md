@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1914-cyclically-rotating-a-grid](https://github.com/MdAjharulIslam/LeetCode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MdAjharulIslam/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/MdAjharulIslam/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2029-stone-game-ix](https://github.com/MdAjharulIslam/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/MdAjharulIslam/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/MdAjharulIslam/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/MdAjharulIslam/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/MdAjharulIslam/LeetCode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/MdAjharulIslam/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MdAjharulIslam/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [2029-stone-game-ix](https://github.com/MdAjharulIslam/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/MdAjharulIslam/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MdAjharulIslam/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MdAjharulIslam/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -325,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1344-angle-between-hands-of-a-clock](https://github.com/MdAjharulIslam/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1406-stone-game-iii](https://github.com/MdAjharulIslam/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1840-maximum-building-height](https://github.com/MdAjharulIslam/LeetCode/tree/main/1840-maximum-building-height/) | Hard |
+| [2029-stone-game-ix](https://github.com/MdAjharulIslam/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/MdAjharulIslam/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MdAjharulIslam/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/MdAjharulIslam/LeetCode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -385,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/MdAjharulIslam/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [2029-stone-game-ix](https://github.com/MdAjharulIslam/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/MdAjharulIslam/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MdAjharulIslam/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/MdAjharulIslam/LeetCode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -499,18 +503,25 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/MdAjharulIslam/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/MdAjharulIslam/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/MdAjharulIslam/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
+| [2029-stone-game-ix](https://github.com/MdAjharulIslam/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/MdAjharulIslam/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/MdAjharulIslam/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
+| [2029-stone-game-ix](https://github.com/MdAjharulIslam/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/MdAjharulIslam/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/MdAjharulIslam/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
+| [2029-stone-game-ix](https://github.com/MdAjharulIslam/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/MdAjharulIslam/LeetCode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/MdAjharulIslam/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 <!---LeetCode Topics End-->
