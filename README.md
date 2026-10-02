@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/MdAjharulIslam/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/MdAjharulIslam/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/MdAjharulIslam/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/MdAjharulIslam/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/MdAjharulIslam/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/MdAjharulIslam/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0396-rotate-function](https://github.com/MdAjharulIslam/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/MdAjharulIslam/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0788-rotated-digits](https://github.com/MdAjharulIslam/LeetCode/tree/main/0788-rotated-digits/) | Medium |
@@ -274,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/MdAjharulIslam/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/MdAjharulIslam/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/MdAjharulIslam/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Prefix Sum
@@ -590,6 +593,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/MdAjharulIslam/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/MdAjharulIslam/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/MdAjharulIslam/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/MdAjharulIslam/LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 <!---LeetCode Topics End-->
