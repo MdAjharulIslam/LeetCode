@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/MdAjharulIslam/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/MdAjharulIslam/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/MdAjharulIslam/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0301-remove-invalid-parentheses](https://github.com/MdAjharulIslam/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0657-robot-return-to-origin](https://github.com/MdAjharulIslam/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/MdAjharulIslam/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0796-rotate-string](https://github.com/MdAjharulIslam/LeetCode/tree/main/0796-rotate-string/) | Easy |
@@ -285,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/MdAjharulIslam/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/MdAjharulIslam/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1980-find-unique-binary-string](https://github.com/MdAjharulIslam/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/MdAjharulIslam/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Prefix Sum
@@ -463,6 +465,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/MdAjharulIslam/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1306-jump-game-iii](https://github.com/MdAjharulIslam/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/MdAjharulIslam/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/MdAjharulIslam/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
