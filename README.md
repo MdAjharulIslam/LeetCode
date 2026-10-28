@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/MdAjharulIslam/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/MdAjharulIslam/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/MdAjharulIslam/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/MdAjharulIslam/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/MdAjharulIslam/LeetCode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/MdAjharulIslam/LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/MdAjharulIslam/LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/MdAjharulIslam/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -251,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3699-number-of-zigzag-arrays-i](https://github.com/MdAjharulIslam/LeetCode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/MdAjharulIslam/LeetCode/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/MdAjharulIslam/LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/MdAjharulIslam/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -548,6 +551,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/MdAjharulIslam/LeetCode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/MdAjharulIslam/LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/MdAjharulIslam/LeetCode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/MdAjharulIslam/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
