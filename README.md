@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3225-maximum-score-from-grid-operations](https://github.com/MdAjharulIslam/LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/MdAjharulIslam/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/MdAjharulIslam/LeetCode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3364-minimum-positive-sum-subarray](https://github.com/MdAjharulIslam/LeetCode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/MdAjharulIslam/LeetCode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/MdAjharulIslam/LeetCode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/MdAjharulIslam/LeetCode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
@@ -276,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/MdAjharulIslam/LeetCode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MdAjharulIslam/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/MdAjharulIslam/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/MdAjharulIslam/LeetCode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/MdAjharulIslam/LeetCode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -330,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2615-sum-of-distances](https://github.com/MdAjharulIslam/LeetCode/tree/main/2615-sum-of-distances/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/MdAjharulIslam/LeetCode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/MdAjharulIslam/LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3364-minimum-positive-sum-subarray](https://github.com/MdAjharulIslam/LeetCode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3699-number-of-zigzag-arrays-i](https://github.com/MdAjharulIslam/LeetCode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/MdAjharulIslam/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/MdAjharulIslam/LeetCode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
