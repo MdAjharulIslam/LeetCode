@@ -197,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/MdAjharulIslam/LeetCode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/MdAjharulIslam/LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/MdAjharulIslam/LeetCode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/MdAjharulIslam/LeetCode/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MdAjharulIslam/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MdAjharulIslam/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/MdAjharulIslam/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -257,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/MdAjharulIslam/LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2463-minimum-total-distance-traveled](https://github.com/MdAjharulIslam/LeetCode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/MdAjharulIslam/LeetCode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/MdAjharulIslam/LeetCode/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/MdAjharulIslam/LeetCode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/MdAjharulIslam/LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MdAjharulIslam/LeetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -470,6 +472,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/MdAjharulIslam/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/MdAjharulIslam/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/MdAjharulIslam/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/MdAjharulIslam/LeetCode/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MdAjharulIslam/LeetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MdAjharulIslam/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/MdAjharulIslam/LeetCode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
